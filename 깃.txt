@@ -1,5 +1,15 @@
- https://github.com/sanghee2762/Green_b.git
-https://sanghee2762.github.io/Green_b/
+https://github.com/sanghee2762/green_shop.git
+git remote add origin https://github.com/sanghee2762/green_shop.git
+
+origin  https://github.com/sanghee2762/green_shop.git (fetch)
+origin  https://github.com/sanghee2762/green_shop.git (push)
+
+git commit -m '리액트 create-react-app green_shop'
+
+
+"https://sanghee2762.github.io/green_shop/"
+
+
 
  ls -la
  git init
