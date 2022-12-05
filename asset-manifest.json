@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/green_shop/static/js/main.e03c8983.js",
+    "index.html": "/green_shop/index.html",
+    "main.e03c8983.js.map": "/green_shop/static/js/main.e03c8983.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e03c8983.js"
+  ]
+}
